@@ -9,18 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rajesh896/broprint.js": "^2.1.1",
+    "color-convert": "^2.0.1",
+    "color-namer": "^1.4.0",
+    "framer-motion": "^11.2.12",
+    "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "twdy-theme": "^0.0.9"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "typescript": "^5"
   }
 }
